@@ -40,7 +40,7 @@ int main(void)
         }
         else if (menuChoice == 4)
         {
-            printf("Goodbye.\n"); //Prints goodbye and ends the while loop, ending the program.
+            printf("Goodbye. Ian is a buttface\n"); //Prints goodbye and ends the while loop, ending the program.
         }
     }
     return 0;
